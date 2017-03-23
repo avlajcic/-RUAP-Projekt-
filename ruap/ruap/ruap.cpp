@@ -9,11 +9,8 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-<<<<<<< HEAD
-	cout << "Pozdrav iz aplikacije od Armanda Vlajcica! Broj indeksa" << endl;
-=======
 	cout << "Pozdrav iz aplikacije od Armanda Vlajcica!" << endl;
->>>>>>> bd124cb... Prvi commit
+
 	return 0;
 }
 
