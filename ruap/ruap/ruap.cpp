@@ -9,7 +9,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "Pozdrav iz aplikacije od Armanda Vlajcica!" << endl;
+	cout << "Pozdrav iz aplikacije od Armanda Vlajcica! Broj indeksa" << endl;
 	return 0;
 }
 
